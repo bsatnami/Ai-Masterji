@@ -1,0 +1,5 @@
+{
+  "name": "AI Master Ji",
+  "description": "An interactive poster/image design app that uses AI to generate photorealistic posters. Users upload product photos and a style reference, and the app extracts the style to create professional visuals with 3D-like enhancements, all powered by Google Gemini.",
+  "requestFramePermissions": []
+}
